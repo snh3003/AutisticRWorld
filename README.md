@@ -24,10 +24,3 @@ Features of our VR world:-
 # Tech Stack
  <img src="https://github.com/snh3003/AutisticRWorld/blob/master/unity.png" width="100"><img src="https://github.com/snh3003/AutisticRWorld/blob/master/csharp-e7b8fcd4ce.png" width="100"><img src="https://github.com/snh3003/AutisticRWorld/blob/master/3ds.png" width="100">
 
-Screenshots/Video
-
-* <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene1.PNG" width="300">
-*  <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene2.PNG" width="300">
-*  <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene3.PNG" width="300">
-*  <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene4.PNG" width="300">
-
