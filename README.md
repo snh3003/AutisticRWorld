@@ -22,19 +22,12 @@ Features of our VR world:-
 * Our VR world will have a calm environment to trigger joint attention that is help the child share his/her interests and regulate their behavior while the parent can access information to understand his/her child's progress. Our application has virtual reality scenarios of real life situations so as to help child overcome his/her fear for that situation when it comes to real life.
 
 # Tech Stack
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/IPFS_logo.png" width="100">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/download.png" width="100">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/real.png" width="100">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/ethereum-logo.png" width="100">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/wyre-payments-vector-logo.png" width="90">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Logos/chatbot-05.png" width="160">
+ <img src="https://github.com/snh3003/AutisticRWorld/blob/master/unity.png" width="100"><img src="https://github.com/snh3003/AutisticRWorld/blob/master/csharp-e7b8fcd4ce.png" width="100"><img src="https://github.com/snh3003/AutisticRWorld/blob/master/3ds.png" width="100">
 
 Screenshots/Video
 
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34%20(1).jpeg" width="500">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.34.jpeg" width="500">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.07.35.jpeg" width="500">
-* <img src="https://github.com/snh3003/Ethereum-Gallico/blob/master/Images/WhatsApp%20Image%202020-03-22%20at%2011.55.05.jpeg" width="500">
- 
-* [Have a look at the Youtube Video](#)
+* <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene1.PNG" width="300">
+*  <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene2.PNG" width="300">
+*  <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene3.PNG" width="300">
+*  <img src=" https://github.com/snh3003/AutisticRWorld/blob/master/projectScreenShots/scene4.PNG" width="300">
 
